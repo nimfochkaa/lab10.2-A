@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\lab 10.2 A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3246B8D3-5AB2-47A8-BF71-E77A84794068}|lab 10.2 A\\lab 10.2 A.vcxproj|D:\\vs project\\lab 10.2 A\\lab 10.2 A\\01A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3246B8D3-5AB2-47A8-BF71-E77A84794068}|lab 10.2 A\\lab 10.2 A.vcxproj|solutionrelative:lab 10.2 A\\01A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A0699-AAA4-475B-B7F4-1CC29200D3F5}|102\\102.vcxproj|D:\\vs project\\lab 10.2 A\\102\\102.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A2A0699-AAA4-475B-B7F4-1CC29200D3F5}|102\\102.vcxproj|solutionrelative:102\\102.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "102.cpp",
+              "DocumentMoniker": "D:\\vs project\\lab 10.2 A\\102\\102.cpp",
+              "RelativeDocumentMoniker": "102\\102.cpp",
+              "ToolTip": "D:\\vs project\\lab 10.2 A\\102\\102.cpp",
+              "RelativeToolTip": "102\\102.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T11:58:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01A.cpp",
+              "DocumentMoniker": "D:\\vs project\\lab 10.2 A\\lab 10.2 A\\01A.cpp",
+              "RelativeDocumentMoniker": "lab 10.2 A\\01A.cpp",
+              "ToolTip": "D:\\vs project\\lab 10.2 A\\lab 10.2 A\\01A.cpp",
+              "RelativeToolTip": "lab 10.2 A\\01A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T11:26:14.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
